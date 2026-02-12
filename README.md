@@ -1,1 +1,1 @@
-# Whole-genome-bisulphide-sequencing-workflow
+# Whole-genome-bisulfite-sequencing-workflow
